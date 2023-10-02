@@ -1,3 +1,3 @@
-Random dolog1
-Random dolog2
-Ez teszt
+Random 2.verzio
+Random 2 2.verzio
+Ez teszt 2.verzio
